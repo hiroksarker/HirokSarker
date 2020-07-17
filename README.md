@@ -2,7 +2,7 @@
 ###  I'm Happy To Know That You Just Visited My Github Profile
 
 - 🔭 I’m currently working on ... Software Quality Assurance Engineer
-- 🌱 I’m currently learning ... Automation, BDD and Performance Testing
+- 🌱 I’m currently learning ... Automation, BDT and Performance Testing
 - 👯 I’m looking to collaborate on ... QA Projects
 - 🤔 I’m looking for help with ... Automation and Performance Related Works
 - 💬 Ask me about ... Software Quality Assurance Engineer
