@@ -9,3 +9,5 @@
 - 📫 How to reach me: ...via [email](mailto:hirok.sarker@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hiroksarker/) if you would like to work with me. 
 - 😄 Pronouns: ... Hirok Sarker
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hiroksarker&show_icons=true&locale=en" alt="hiroksarker" /></p>
+
